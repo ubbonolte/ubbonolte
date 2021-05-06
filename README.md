@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ubbonolte
 - 👀 I’m interested in data science, software development, python, psychology, nursing
 - 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on anythin interesting
+- 💞️ I’m looking to collaborate on interesting stuff
 - 📫 How to reach me: try twitter @ubbonolte
 
 <!---
